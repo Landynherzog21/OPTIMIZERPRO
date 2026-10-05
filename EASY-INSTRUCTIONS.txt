@@ -1,0 +1,24 @@
+COMBINE OPTIMIZER — GITHUB PAGES + OFFLINE
+
+1. Create a NEW GitHub repository named combine-optimizer.
+2. Upload EVERYTHING INSIDE this folder to the ROOT of the repository.
+   index.html must be visible on the main repository page.
+3. Commit the files.
+4. Open repository Settings > Pages.
+5. Under Build and deployment choose: Deploy from a branch.
+6. Branch: main. Folder: /(root). Press Save.
+7. Wait for GitHub to show "Your site is live" and open that link.
+8. On iPhone, open the GitHub Pages link in SAFARI while online.
+9. Wait until the red status changes to: OFFLINE READY ✓
+10. Refresh once and confirm it still says OFFLINE READY ✓.
+11. Safari > Share > Add to Home Screen > turn on Open as Web App > Add.
+12. Open the Home Screen app while still online. Confirm OFFLINE READY ✓.
+13. Turn Airplane Mode ON.
+14. Fully close the app and reopen it.
+15. It should say OFFLINE MODE ✓ and the app should still work.
+
+IMPORTANT:
+- Do not upload the outer folder itself. Upload the files inside it.
+- Do not use Netlify for this version.
+- The repository/site contains no customer data by default. Saved customer/setup data stays in browser storage on your device unless you export it.
+- GitHub Pages itself is a public website. Do not put private customer information directly into the repository files.
